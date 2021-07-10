@@ -1,0 +1,9 @@
+obj
+bin
+report
+
+tags
+cscope*
+
+*.pyc
+__pycache__
